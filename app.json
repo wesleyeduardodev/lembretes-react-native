@@ -19,10 +19,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/lembrete.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.wesleyeduardo.lembretes"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0d1e0fa-1ea1-4b3b-b7a3-abf9aebc5ff0"
+      }
     }
   }
 }
